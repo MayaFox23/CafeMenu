@@ -30,7 +30,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  max-width: 500px;
+  max-width: 700px;
 }
 
 img {
@@ -65,12 +65,12 @@ h2 {
 .flavor,
 .dessert {
   text-align: left;
-  width: 80%;
+  width: 60%;
 }
 
 .price {
   text-align: right;
-  width: 20%;
+  width: 40%;
 }
 
 /* FOOTER */
